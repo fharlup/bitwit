@@ -94,7 +94,7 @@
           <q-item-section>
             <q-item-label overline class="text-grey">tentang aplikasi in</q-item-label>
             <q-item-label class="text-weight-bold">bantu situs ini lebih baik!</q-item-label>
-            <q-item-label caption>kalian bisa bantu buat situs ini dengan bantu git commit<a href="#">disini</a>atau bisa kasih saran via dm twitter <a href="#">disini</a>.</q-item-label>
+            <q-item-label caption>kalian bisa bantu buat situs ini dengan bantu git commit<a href="https://github.com/fharlup/bitwit">disini</a>atau bisa kasih saran via dm twitter <a href="https://twitter.com/fharlup">disini</a>.</q-item-label>
           </q-item-section>
 
           <q-item-section side top>

@@ -66,14 +66,7 @@
               <q-item-label class="qweet-content text-body1">{{ qweet.content }}</q-item-label>
               <div class="qweet-icons row justify-between q-mt-sm">
 
-                <q-btn
-                  @click="deleteQweet(qweet)"
-                  color="grey"
-                  icon="fas fa-trash"
-                  size="sm"
-                  flat
-                  round
-                />
+
               </div>
             </q-item-section>
           </q-item>
