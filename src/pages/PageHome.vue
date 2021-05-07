@@ -25,7 +25,7 @@
             :disable="!newQweetContent"
             class="q-mb-lg"
             color="primary"
-            label="Qweet"
+            label="bitwit"
             rounded
             unelevated
             no-caps
